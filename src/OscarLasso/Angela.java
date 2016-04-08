@@ -10,7 +10,7 @@ package OscarLasso;
  *
  * @author Vespertino B
  */
-public class OscarLasso2 {
+public class Angela {
     public void iniciar()
     {
         System.out.println("Hola Mundo");
