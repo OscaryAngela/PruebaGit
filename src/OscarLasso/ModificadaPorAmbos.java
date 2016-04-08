@@ -6,14 +6,19 @@
 
 package OscarLasso;
 
+
 /**
  *
  * @author Vespertino B
  */
 public class ModificadaPorAmbos {
-    public void muestraTexto()
+ 
+    private String saludo;
+    
+    public void muestraTexto(String Saludo)
     {
         System.out.print("Hola amigos");
         System.out.print("Cambio del profesor");
+        return saludo;
     }
 }
