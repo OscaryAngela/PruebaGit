@@ -14,5 +14,6 @@ public class ModificadaPorAmbos {
     public void muestraTexto()
     {
         System.out.print("Hola amigos");
+        System.out.print("Cambio del profesor");
     }
 }
